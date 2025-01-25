@@ -169,35 +169,6 @@ body {
     .right-card,.left-card{
         height: 50%;
     }
-    .rc-button{
-        font-size: 1rem;
-    }
-    .rc-score {
-        font-size: .8rem;
-        
-    }
-    .lc-remarks{
-        font-size: 1rem;
-    }
-    .lc-grade{
-        font-size: 1rem;
-    }
-    .lc-total{
-        font-size: .8rem;
-    }
-    .lc-result{
-        font-size: 1.5rem;
-    }
-    .lc-score{
-        width: 8rem;
-        height: 10rem;
-        border-radius: 50%;
-    }
-    .rc-h1{
-        font-size: 1rem;
-    }
-    .right-card{
-      padding: 1rem;
-    }
-
+  html{
+    font-size: 12px}
 }
